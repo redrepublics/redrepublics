@@ -7,7 +7,7 @@
 **8+ years in QA · 19+ years in IT**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/redrepublics)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=redrepublics)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=redrepublics)
 </div>
 
 ---
