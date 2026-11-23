@@ -75,7 +75,4 @@ Currently developing Python test automation skills with Selenium WebDriver.
 
 </div>
 
---- 
-<div align="center">
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=redrepublics)
-</div>
+
