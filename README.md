@@ -22,7 +22,7 @@
 
 QA Engineer specializing in manual testing, API testing, microservices, and integration testing. Experienced in test design, defect analysis, and quality assurance processes.
 
-Currently developing Python test automation skills with Selenium WebDriver.
+Currently developing Python test automation skills with Pytest and Selenium WebDriver.
 
 ## Tech Stack
 
