@@ -6,7 +6,7 @@
 
 **8+ years in QA · 19+ years in IT**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/redrepublics)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/redrepublics) [![Telegram](https://img.shields.io/badge/Telegram-@Gerebiov-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Gerebiov)
 
 </div>
 
