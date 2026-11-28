@@ -11,9 +11,6 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-%40Gerebiov-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Gerebiov)
 
----
-
-
 </div>
 
 ---
@@ -29,6 +26,8 @@ Currently developing Python test automation skills with Pytest and Selenium WebD
 **Testing & Automation**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![unittest](https://img.shields.io/badge/unittest-Test_Runner-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-Test_Framework-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
